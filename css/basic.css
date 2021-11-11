@@ -1,0 +1,49 @@
+#twptSuccess, #tptSuccess, #ftSuccess, #oSuccess {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+  }
+  #twptBar, #tptBar, #ftBar, #oBar {
+    width: 0%;
+    background-color: #4f97da;
+    margin-left: 0%;
+  }
+  .center{
+    display: table;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 20%;
+    
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  div{
+    background-color: white;
+    width:80%;
+    margin: auto;
+  }
+  h1{
+    display: block;
+    text-align: center;
+  }
+  table{
+    margin: auto;
+  }
+  body
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/court.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  html {
+    height: 100%;
+}
